@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreConsolePlayground", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandardExtensionPlayground", "StandardExtensionPlayground\StandardExtensionPlayground.csproj", "{42190DF6-67B5-4781-A9D5-46CDC4BC4D29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandardModelPlayground", "StandardModelPlayground\StandardModelPlayground.csproj", "{DF23FE25-A1A5-4FBB-BCD5-5C376F32A496}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{42190DF6-67B5-4781-A9D5-46CDC4BC4D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42190DF6-67B5-4781-A9D5-46CDC4BC4D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42190DF6-67B5-4781-A9D5-46CDC4BC4D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF23FE25-A1A5-4FBB-BCD5-5C376F32A496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF23FE25-A1A5-4FBB-BCD5-5C376F32A496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF23FE25-A1A5-4FBB-BCD5-5C376F32A496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF23FE25-A1A5-4FBB-BCD5-5C376F32A496}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
