@@ -9,7 +9,8 @@ namespace CodeChallenges
 			// HrGradingStudents.gradingStudents(new List<int>() {73,67,38,33});
 			// HrGridChallenge.CallGridChallenge();
 			// HrLuckBalance.CallLuckBalance();
-			HrCountApplesAndOranges.countApplesAndOranges(7, 11, 5, 15, new[] {-2, 2, 1}, new[] {5, -6});
+			// HrCountApplesAndOranges.countApplesAndOranges(7, 11, 5, 15, new[] {-2, 2, 1}, new[] {5, -6});
+			Console.WriteLine(HrKangaroo.kangaroo(0, 2, 5, 3));
 			Console.ReadLine();
 		}
 	}
